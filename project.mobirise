@@ -24,7 +24,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/img-3912-128x128.png",
     "noImageResize": "",
     "siteUrl": "undefined",
-    "siteFonts": []
+    "siteFonts": [],
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-2594538-11\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-2594538-11');\r\n</script>"
   },
   "pages": {
     "index.html": {
